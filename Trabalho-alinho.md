@@ -35,3 +35,40 @@ Ignorar ou negligenciar alguma dessas etapas pode comprometer todo o projeto. Du
 Portanto, fica evidente que o planejamento, a metodologia e o ciclo de vida são elementos inseparáveis no desenvolvimento de software. Um planejamento bem estruturado orienta a escolha da metodologia mais adequada, que por sua vez organiza a execução dentro das fases do ciclo de vida.
 
 Essa integração garante não apenas a entrega de um produto funcional, mas também eficiente, sustentável e alinhado às expectativas do cliente.
+# Fundamentos da Gestão de Projetos de Software
+
+## Módulo 1: O Valor do Planejamento (O Porquê)
+
+Antes de começar a programar qualquer sistema, é fundamental parar e pensar no planejamento. Muitas vezes, a pressa de iniciar o código faz com que etapas importantes sejam ignoradas, o que pode gerar problemas no futuro. O planejamento serve justamente para organizar as ideias, definir objetivos e estabelecer limites claros para o projeto.
+
+Um dos principais problemas que surgem quando não há um bom planejamento é o *scope creep*, ou seja, o aumento descontrolado do escopo. Isso acontece quando novas funções vão sendo adicionadas sem organização, o que acaba atrasando o projeto e aumentando os custos. Por isso, definir metas claras, como as metas **SMART**, ajuda a manter o foco e evita desperdício de tempo e recursos.
+
+Além disso, analisar se o projeto é viável também é essencial. Não adianta ter uma boa ideia se ela não pode ser colocada em prática. Por exemplo, ao criar um aplicativo, é importante pensar se a equipe tem conhecimento técnico suficiente, se há recursos financeiros e se realmente existe demanda para aquilo.
+
+---
+
+## Módulo 2: Metodologias de Projetos (O Como)
+
+Depois do planejamento, é preciso decidir como o projeto será desenvolvido. É aí que entram as metodologias, que funcionam como um guia para organizar o trabalho da equipe.
+
+O modelo tradicional, conhecido como **Cascata**, segue uma ordem fixa: primeiro planeja, depois desenvolve, testa e entrega. Esse modelo pode funcionar bem quando tudo já está bem definido desde o início. No entanto, ele pode ser complicado quando surgem mudanças no meio do caminho.
+
+Já as metodologias ágeis, como **Scrum** e **Kanban**, são mais flexíveis. Elas permitem que o projeto seja ajustado conforme ele vai sendo desenvolvido. No Scrum, por exemplo, o trabalho é dividido em pequenos períodos chamados *Sprints*, onde a equipe entrega partes do sistema aos poucos.
+
+Na prática, isso é muito útil. Imagine o desenvolvimento de um site: com métodos ágeis, é possível mostrar versões iniciais ao cliente e ir melhorando com base no feedback dele, evitando retrabalho no final.
+
+---
+
+## Módulo 3: Ciclo de Vida do Desenvolvimento (A Prática)
+
+Para que tudo funcione de forma organizada, o projeto segue um ciclo de vida. Esse ciclo é dividido em etapas:
+
+- Iniciação  
+- Planejamento  
+- Execução  
+- Monitoramento  
+- Encerramento  
+
+Cada fase tem sua importância. Na iniciação, a ideia do projeto é definida. No planejamento, tudo é organizado. Na execução, o sistema é realmente desenvolvido. Já o monitoramento serve para acompanhar se tudo está indo conforme o esperado. Por fim, o encerramento garante que o projeto seja finalizado corretamente.
+
+Seguir essas etapas é essencial para garantir que o sistema seja de qualidade e funcione bem a longo prazo. Além disso, um projeto bem estruturado facilita futuras melhorias e manutenções, o que é muito importante principalmente em sistemas web.
